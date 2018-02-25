@@ -1,0 +1,63 @@
+
+  <br>
+  <br>
+
+<div class="container" >
+  <div [hidden]="addAdjustments">
+        <div class="form-group">
+                <label for="usr">Search:</label>
+                <input type="text" class="form-control" id="usr" [(ngModel)]="searchText">
+              </div>
+              <br><br>
+              <table class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th>Select</th>
+        <th>Teacher Name</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let x of data | searchString: searchText" >
+        <td><div class="form-check">
+            <label class="form-check-label">
+              <input type="checkbox" class="form-check-input" value=""  (click)="save(x,$event)" />
+            </label>
+          </div></td>
+        <td>{{x.teacherName}}</td>
+      </tr>
+     
+    </tbody>
+  </table>
+
+  <button type="button" class="btn btn-primary btn-sm btn-block" (click)="confirmationSummaryPage()">Submit</button>
+  <br>
+</div>
+
+  <div  [hidden]="confirmationSummary">
+      <div class="table-responsive-sm">          
+          <table class="table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Teacher</th>
+                
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let x of selectedTeachers;let i=index">
+                <td>{{i+1}}</td>
+                <td>{{x.teacherName}}</td>
+                
+              </tr>
+            </tbody>
+          </table>
+          <div class="btn-group">
+              <button type="button" class="btn"  (click)="chooseAgain()">Edit</button>
+              <button type="button" class="btn btn-primary" (click)="initiateAdjustments()">Confirm</button>
+            </div>
+
+          </div>
+  </div>
+
+</div>

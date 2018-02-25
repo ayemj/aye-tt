@@ -1,0 +1,1123 @@
+{
+    "body":[
+        {
+          "className": "10",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "14",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ECO",
+              "teacher": "25",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "24",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "FM",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "6",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "14",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "25",
+              "noOfLecturesPerWeek": "7"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "16",
+              "noOfLecturesPerWeek": "9"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "16"
+        },
+        {
+          "className": "10",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ECO",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "4",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "FM",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "34",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "7"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "17",
+              "noOfLecturesPerWeek": "9"
+            }
+          ],
+          "classSection": "B",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "17"
+        },
+        {
+          "className": "10",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "6",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ECO",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "3",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "FM",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "15",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "7"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "18",
+              "noOfLecturesPerWeek": "9"
+            }
+          ],
+          "classSection": "C",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "18"
+        },
+        {
+          "className": "3",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "5"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "23",
+              "noOfLecturesPerWeek": "9"
+            },
+            {
+              "subject": "EVS",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "9"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "9"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "2"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "0"
+        },
+        {
+          "className": "4",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "5"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "EVS",
+              "teacher": "23",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "11",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "23",
+              "noOfLecturesPerWeek": "2"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "1"
+        },
+        {
+          "className": "5",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "5"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "23",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "EVS",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "EVS",
+              "teacher": "23",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "29",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "2"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "2"
+        },
+        {
+          "className": "6",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "3",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "11",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "32",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "17",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "3"
+        },
+        {
+          "className": "6",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "4",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "4",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "10",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "29",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "8",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "16",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "10",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "B",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "4"
+        },
+        {
+          "className": "6",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "28",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "3",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "34",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "17",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "C",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "5"
+        },
+        {
+          "className": "7",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "6",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "4",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "6",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "29",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "17",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "6"
+        },
+        {
+          "className": "7",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "11",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "29",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "18",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "B",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "7"
+        },
+        {
+          "className": "7",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "8",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "8",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "0",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "34",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "32",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "18",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "C",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "8"
+        },
+        {
+          "className": "8",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "32",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "10",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "9",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "18",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "8",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "33"
+        },
+        {
+          "className": "8",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "10",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "10",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "8",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "16",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "B",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "10"
+        },
+        {
+          "className": "8",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "11",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "3",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "HINDI",
+              "teacher": "30",
+              "noOfLecturesPerWeek": "3"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "11",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "16",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "1"
+            }
+          ],
+          "classSection": "C",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "11"
+        },
+        {
+          "className": "9",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "3",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ECO",
+              "teacher": "25",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "3",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "6",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "7",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "25",
+              "noOfLecturesPerWeek": "7"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "17",
+              "noOfLecturesPerWeek": "9"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "2"
+            }
+          ],
+          "classSection": "A",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "3"
+        },
+        {
+          "className": "9",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ECO",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "8",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "34",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "13",
+              "noOfLecturesPerWeek": "7"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "16",
+              "noOfLecturesPerWeek": "9"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "1",
+              "noOfLecturesPerWeek": "2"
+            }
+          ],
+          "classSection": "B",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "13"
+        },
+        {
+          "className": "9",
+          "mapping": [
+            {
+              "subject": "CLUB",
+              "teacher": "14",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "CMPTR",
+              "teacher": "2",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ECO",
+              "teacher": "12",
+              "noOfLecturesPerWeek": "2"
+            },
+            {
+              "subject": "ENG",
+              "teacher": "4",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "GAMES",
+              "teacher": "27",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "LIB",
+              "teacher": "26",
+              "noOfLecturesPerWeek": "1"
+            },
+            {
+              "subject": "MATH",
+              "teacher": "10",
+              "noOfLecturesPerWeek": "8"
+            },
+            {
+              "subject": "PBI",
+              "teacher": "14",
+              "noOfLecturesPerWeek": "6"
+            },
+            {
+              "subject": "S.SCI",
+              "teacher": "33",
+              "noOfLecturesPerWeek": "7"
+            },
+            {
+              "subject": "SCI",
+              "teacher": "18",
+              "noOfLecturesPerWeek": "9"
+            },
+            {
+              "subject": "SUPW",
+              "teacher": "5",
+              "noOfLecturesPerWeek": "2"
+            }
+          ],
+          "classSection": "C",
+          "noOfLecturesPerDay": "8",
+          "classTeacher": "14"
+        }
+      ]
+}

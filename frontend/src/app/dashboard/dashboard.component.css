@@ -1,0 +1,28 @@
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+.one-statement {
+
+    background-image: url('../../assets/wood.jpg');
+    background-size: cover;
+   
+}
+.other-statement {
+
+  background-image: url('../../assets/plank.jpg');
+  background-size: cover;
+ 
+}
+
+.tag-line {
+
+  margin: 1000 0 0 20;
+  width: 400px;
+  color: white;
+
+}

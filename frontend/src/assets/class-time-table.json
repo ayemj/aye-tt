@@ -1,0 +1,6467 @@
+{
+    "body" : [
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "16",
+            "name": "MANPREET KAUR (SCIENCE)"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "24",
+                  "name": "CHAMANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "24",
+                  "name": "CHAMANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "24",
+                  "name": "CHAMANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "24",
+                  "name": "CHAMANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "24",
+                  "name": "CHAMANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "24",
+                  "name": "CHAMANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              }
+            ]
+          ],
+          "className": "10"
+        },
+        {
+          "sectionName": "B",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "17",
+            "name": "RAVNEET KAUR"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              }
+            ]
+          ],
+          "className": "10"
+        },
+        {
+          "sectionName": "C",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "18",
+            "name": "SUKHPAL SINGH"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "15",
+                  "name": "MANPREET KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "15",
+                  "name": "MANPREET KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "15",
+                  "name": "MANPREET KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "15",
+                  "name": "MANPREET KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "15",
+                  "name": "MANPREET KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "15",
+                  "name": "MANPREET KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              }
+            ]
+          ],
+          "className": "10"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "0",
+            "name": "RITU RANI"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              }
+            ]
+          ],
+          "className": "3"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "1",
+            "name": "MANDEEP KAUR"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              }
+            ]
+          ],
+          "className": "4"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "2",
+            "name": "NEHA SINGLA"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "28",
+                  "name": "SUKHPAL KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "EVS",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "23",
+                  "name": "RAJVEER KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              }
+            ]
+          ],
+          "className": "5"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "12",
+            "name": "ANU"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              }
+            ]
+          ],
+          "className": "6"
+        },
+        {
+          "sectionName": "B",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "4",
+            "name": "SANDEEP KAUR"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              }
+            ]
+          ],
+          "className": "6"
+        },
+        {
+          "sectionName": "C",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "5",
+            "name": "POONAM KAPOOR"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "5",
+                  "name": "POONAM KAPOOR"
+                }
+              }
+            ]
+          ],
+          "className": "6"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "6",
+            "name": "SHIFALI"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "CMPTR",
+                "teacher": {
+                  "_id": "2",
+                  "name": "NEHA SINGLA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              }
+            ]
+          ],
+          "className": "7"
+        },
+        {
+          "sectionName": "B",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "7",
+            "name": "SIMRANJIT KAUR"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "29",
+                  "name": "KAMLESH RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              }
+            ]
+          ],
+          "className": "7"
+        },
+        {
+          "sectionName": "C",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "8",
+            "name": "RUPINDER KAUR( ENGLISH)"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "0",
+                  "name": "RITU RANI"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              }
+            ]
+          ],
+          "className": "7"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "33",
+            "name": "JAGJEET SINGH"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "9",
+                  "name": "VISHAV JYOTI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "9",
+                  "name": "VISHAV JYOTI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "9",
+                  "name": "VISHAV JYOTI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "9",
+                  "name": "VISHAV JYOTI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "9",
+                  "name": "VISHAV JYOTI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "9",
+                  "name": "VISHAV JYOTI"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "26",
+                  "name": "DIMPI RANI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "32",
+                  "name": "AMANPREET KAUR"
+                }
+              }
+            ]
+          ],
+          "className": "8"
+        },
+        {
+          "sectionName": "B",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "10",
+            "name": "RUPINDER KAUR (MATH)"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "1",
+                  "name": "MANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "HINDI",
+                "teacher": {
+                  "_id": "30",
+                  "name": "SEEMA GUPTA"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              }
+            ]
+          ],
+          "className": "8"
+        },
+        {
+          "sectionName": "C",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "11",
+            "name": "NANCY MITTAL"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "11",
+                  "name": "NANCY MITTAL"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              }
+            ]
+          ],
+          "className": "8"
+        },
+        {
+          "sectionName": "A",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "3",
+            "name": "DILPREET KAUR"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "7",
+                  "name": "SIMRANJIT KAUR"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "3",
+                  "name": "DILPREET KAUR"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "25",
+                  "name": "KANCHAN ANAND"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "6",
+                  "name": "SHIFALI"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "17",
+                  "name": "RAVNEET KAUR"
+                }
+              }
+            ]
+          ],
+          "className": "9"
+        },
+        {
+          "sectionName": "B",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "13",
+            "name": "SIMRANJIT KAUR GHUMAN"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "8",
+                  "name": "RUPINDER KAUR( ENGLISH)"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "13",
+                  "name": "SIMRANJIT KAUR GHUMAN"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "16",
+                  "name": "MANPREET KAUR (SCIENCE)"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "34",
+                  "name": "SATBIR BALI"
+                }
+              }
+            ]
+          ],
+          "className": "9"
+        },
+        {
+          "sectionName": "C",
+          "noOfLecturesPerDay": 8,
+          "classTeacher": {
+            "_id": "14",
+            "name": "MEENA RANI SHARMA"
+          },
+          "timeTable": [
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              }
+            ],
+            [
+              {
+                "subject": "PBI",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              },
+              {
+                "subject": "S.SCI",
+                "teacher": {
+                  "_id": "33",
+                  "name": "JAGJEET SINGH"
+                }
+              },
+              {
+                "subject": "ENG",
+                "teacher": {
+                  "_id": "4",
+                  "name": "SANDEEP KAUR"
+                }
+              },
+              {
+                "subject": "MATH",
+                "teacher": {
+                  "_id": "10",
+                  "name": "RUPINDER KAUR (MATH)"
+                }
+              },
+              {
+                "subject": "ECO",
+                "teacher": {
+                  "_id": "12",
+                  "name": "ANU"
+                }
+              },
+              {
+                "subject": "CLUB",
+                "teacher": {
+                  "_id": "14",
+                  "name": "MEENA RANI SHARMA"
+                }
+              },
+              {
+                "subject": "SCI",
+                "teacher": {
+                  "_id": "18",
+                  "name": "SUKHPAL SINGH"
+                }
+              }
+            ]
+          ],
+          "className": "9"
+        }
+      ]
+      
+}
