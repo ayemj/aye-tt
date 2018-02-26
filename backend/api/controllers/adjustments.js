@@ -15,8 +15,8 @@ function readTeacherData(contentTeacher) {
     var teacherJson = {};
     var teachername = contentTeacher[i].split(",")[0].trim().split("-")[1];
     teacherJson["teacherName"] = teachername;
+    classLevel = [0,0];
     var timeArray = contentTeacher[i+1].split(",").slice(1);
-    console.log(timeArray);
     timetable = [];
     for (k = i + 3; k < i + 9; k++) {
       dayWise = [];
@@ -25,7 +25,13 @@ function readTeacherData(contentTeacher) {
         lecture = {};
         if (timeArray[l].trim() != '') {
           var timeJson = {};
-          lecture["class"] = lectureArr[l].trim();
+          lecture["class"] = lectureArr[l].trim() + " ";
+          if(lecture["class"].startsWith("I ") || lecture["class"].startsWith("II ") || lecture["class"].startsWith("III ") || lecture["class"].startsWith("IV ") || lecture["class"].startsWith("V ")){
+            classLevel[0] += 1;
+          }else if(lecture["class"].startsWith("VI")){
+            classLevel[1] += 1;
+          }
+          lecture["class"] = lecture["class"].trim();
           if (lecture["class"] == ''){
             lecture["class"] = 'Free';
           }
@@ -36,8 +42,24 @@ function readTeacherData(contentTeacher) {
           dayWise.push(lecture);
         }
       }
+      temp = lectureArr[0].trim() + " ";
+      if(temp.startsWith("I ") || temp.startsWith("II ") || temp.startsWith("III ") || temp.startsWith("IV ") || temp.startsWith("V ")){
+        classLevel[0] += 48;
+      }else if(temp.startsWith("VI")){
+        classLevel[1] += 48;
+      }
       timetable.push(dayWise);
     }
+    if(timeArray.filter(function(el){
+      return el != '' && el != '\r';
+    }).length == 6){
+      teacherJson["classLevel"] = 2;
+    }else{
+      teacherJson["classLevel"] = classLevel[0]>classLevel[1]?0:1;
+    }
+    //console.log(teacherJson["classLevel"] + "-" + teachername);
+    
+    
     teacherJson["timetable"] = timetable;
     //console.log(teacherJson);
     teacherArray.push(teacherJson);
@@ -86,7 +108,7 @@ module.exports.uploadTTFiles = function(req, res) {
         files.push(fileDetail);
         filejson["files"] = files;
         db.collection('UploadFiles').insert(filejson);
-        console.log(filejson);
+        //console.log(filejson);
         myObj = { "status":"done" };
         res.header("Access-Control-Allow-Origin", "*");
 
