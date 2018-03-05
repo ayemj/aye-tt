@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
 var User = mongoose.model('User');
 const MongoClient = require('mongodb').MongoClient;
+const ObjectId = require('mongodb').ObjectId;
 const fs = require('fs');
 var db;
 MongoClient.connect('mongodb://127.0.0.1:27017/', (err, client) => {
@@ -147,8 +148,57 @@ module.exports.getAllTeachers = function(req, res) {
   }
 };
 
+function fetchTeacher(_id){
+    return new Promise(function(resolve,reject){
+      db.collection("TTUpdatedNew").find({_id:ObjectId(_id)}).toArray(function(err,items){       
+        return items[0];
+      });
+    });
+}
+module.exports.fetchAdjustments = function(req, res) {
 
+  if (!req.payload._id) {
+    res.status(401).json({
+      "message" : "UnauthorizedError: private profile"
+    });
+  } else {
+    User
+      .findById(req.payload._id)
+      .exec(function(err, user) {
+        console.log(req.body);
+        absentTime = []
+        absentLectures = [];
+        var promises = [];
+        for (absent in req.body.absentList){
+          teacher = fetchTeacher(req.body.absentList[absent]._id);
+          // .then(function(teacher){
+          //   d = new Date();
+          //   
+          //   console.log(teacher);
+            
+          //   if(d.getDay() <= 6 && d.getDay > 0){
+          //     currDaySched = teacher.timetable[d.getDay()-1];
+          //     for(y in currDaySched){
+          //       if(currDaySched[y].class != "Free"){
+          //         absentLectures.push(currDaySched[y])
+          //       }
+          //     }
+          //   }
+          // });
+          promises.push(teacher);
+                   
+        }
+        Promise.all(promises).then(function(){
+          console.log("something wrong/or not");
+          console.log(promises);
+          
+          res.status(200).json(req.body)
+        });
+        ;
+      });
+  }
 
+};
 
 
 
@@ -163,9 +213,7 @@ module.exports.profileRead0 = function(req, res) {
     User
       .findById(req.payload._id)
       .exec(function(err, user) {
-        user["vlc"] = "Mukul";
-        console.log(user);
-        myObj = { "name":"John DOE", "age":30, "car":null };
+        
         res.status(200).json(myObj);
       });
   }

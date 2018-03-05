@@ -40,7 +40,7 @@ router.post('/uploadTTFiles', auth,
 
 router.get('/getAllTeachers', auth, ctrlAdjustments.getAllTeachers);
 
-
+router.post('/fetchAdjustments', auth,ctrlAdjustments.fetchAdjustments);
 
 // authentication
 router.post('/register', ctrlAuth.register);
